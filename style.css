@@ -7,7 +7,7 @@
 header {
    width: 100px;
    height: 50px;
-   background-color: #ffffff;
+   background-color: rgb(117, 56, 5), 16, 16);
    margin: auto;
  }
  
@@ -15,7 +15,8 @@ header {
    width: 900px;
    height: 50px;
    margin: auto;
-   background-color: #ffffff;
+   background-color: rgb(117, 56, 5), 16, 16);
+   
  }
  
  #bigimage {
