@@ -33,7 +33,7 @@ header {
    height: 600px;
    float: left;
    padding: 10px;
-   background-color: #ffffff;
+   background-color: rgb(117, 56, 5), 16, 16);
  }
  
  .big {
